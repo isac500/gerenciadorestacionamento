@@ -8,7 +8,7 @@ Este sistema foi criado para controlar a entrada e saída de veículos em um est
 
 ## 🎥 Demonstração
 
-🔗 [Vídeo de apresentação no YouTube]([https://www.youtube.com/KZJ0FOCXsw4?si=pFzGJlCtaPFJYRVy)
+🔗 https://www.youtube.com/KZJ0FOCXsw4?si=pFzGJlCtaPFJYRVy
 
 > A versão 2.0 com melhorias está em desenvolvimento e será publicada em breve com um novo vídeo demonstrativo.
 
